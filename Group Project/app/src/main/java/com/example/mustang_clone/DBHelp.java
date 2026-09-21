@@ -12,7 +12,7 @@ import androidx.annotation.Nullable;
 public class DBHelp extends SQLiteOpenHelper {
 
     private static final String TAG = "DBHelp";
-    private static final int DATABASE_VERSION = 5; // Increased version for schema change
+    private static final int DATABASE_VERSION = 3;
     private static final String DATABASE_NAME = "mustangDB.db";
 
     private static final String TABLE_CATEGORY = "Category";

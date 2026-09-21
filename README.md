@@ -79,7 +79,7 @@ Mustang-Clone/
 
 1. Clone the repository:
 ```powershell
-git clone https://github.com/Kalharapasan/Mustang-Clone.git
+git clone https://github.com/Kalhara84/Mustang-Clone.git
 cd "Mustang Clone/Git/Group Project"
 ```
 
@@ -178,7 +178,7 @@ For signed release builds:
 ## Contact
 
 - Owner: Kalharapasan
-- Repository: [Mustang-Clone](https://github.com/Kalharapasan/Mustang-Clone)
+- Repository: [Mustang-Clone](https://github.com/Kalhara84/Mustang-Clone.git)
 
 ## License
 
